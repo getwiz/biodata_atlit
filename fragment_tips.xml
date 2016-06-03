@@ -1,0 +1,209 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wiz.biografiatlit.Tips"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Cara Menjadi Atlet yang Hebat"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_margin="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Temukan potensi diri"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Sebelum mengasah kemampuan tentunya kita perlu mengetahui kemampuan kita berada di bidang apa. Ini sangat penting karena mana mungkin kita menekuni bidang yang kita tidak sukai. Menemukan potensi diri gampang-gampang susah, tetapi menurut saya mudah kita hanya perlu tahu memiliki kesukaan atau kecintaan di bidang apa dan itulah potensi diri kita"
+            android:id="@+id/textView"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. Tekuni potensi diri "
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Setelah mengatahui potensi kita yang perlu kita lakukan adalah menekuni potensi kita di bidang tersebut, menekuni potensi bisa kita lakukan dengan mengembangkan kemampuan kita, entah dari diri sendiri atau bantuan orang lain. Misalnya kita berminat di bidang sepak bola cara menekuninya adalah dengan cara terus berlatih dan mengikuti SSB agar ada yang membimbing kita menjadi pemain yang lebih baik."
+            android:id="@+id/textView4"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. Berlatih dan terus berlatih"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Berlatih dan terus berlatih agar kemampuan kita terus meningkat dan berguna untuk mengurangi bahkan menghilangkan kelemahan serta bisa cepat memahami apa yang sedang dilatih."
+            android:id="@+id/textView5"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. Mengembangkan kemampuan"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView8" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Senada dengan poin diatas mengembangkan kemampuan juga tidak kalah penting kita bisa melakukannya dengan  cara terus berlatih sehingga kemampuan kita bertambah dan terus bertambah, mengambangkan kemampuan harus dilakukan dengan sungguh-sungguh agar hasial yang didapat maksimal."
+            android:id="@+id/textView7"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5 .Mengetahui kelemahan diri sendiri"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView9" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Ini sangat penting bagi atlet. Mengetahui kelemahan diri adalah hal yang mutlak karena kita bisa memperbaiki bahkan menutupi kelemahan tersebut sehingga kemampuan kita bertambah. Misalnya dalam bermain sepak bola tendangan kita mudah ditepis, setelah mengetahui kekurangan tersebut tentunya kita akan berlatih lebih giat untuk menghilangkannya dengan cara membelokkan tendangan atau menendang dengan lebih keras."
+            android:id="@+id/textView10"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. Jangan meremehkan lawan"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Jangan meremehkan lawan selemah apapun lawan kita itu karena bisa-bisa lawan memberikan kejutan tak terduga bahkan akhirnya kita bisa kalah karena kita telah meremehkannnya sehingga kita tidak bermain dengan sungguh-sungguh dan akhirnya tidak mendapat hasil yang maksimal. Seperti kata-kata aburame shino &quot;aku tidak akan meremahkan lawanku selemah apapun dia&quot;."
+            android:id="@+id/textView12"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. Cintai bidang tersebut"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView13" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Maksudnya mencintai bidang tersebut adalah kita benar-benar menekuni dengan sepenuh hati dan jangan setengah- setengah, karena sesutau yang dilakukan dengan sepenuh hati pasti membuat kita mendapat hasil yang maksimal."
+            android:id="@+id/textView14"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8. Percaya diri"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginBottom="7dp"
+            android:layout_marginTop="7dp"
+            android:textStyle="bold"
+            android:id="@+id/textView16" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Percaya diri sangat penting bagi atlet karena tanpa adanya percaya diri, atlet dengan kemampuan sehebat apaupun bisa kalah dengan atlet yang lebih percaya diri, karena tanpa percaya diri kemampuan yang sesungguhnya tidak akan muncul tapi jangan juga terlalu percaya diri dan membatasi kekuatan. "
+            android:id="@+id/textView15"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginBottom="7dp" />
+    </LinearLayout>
+
+</ScrollView>
