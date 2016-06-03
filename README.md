@@ -1,1 +1,4 @@
-# biodata_atlit
+File-file minimum aplikasi biodata atlit.
+
+Regards,
+Nanang Wiz
